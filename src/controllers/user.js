@@ -77,5 +77,4 @@ module.exports = {
   addUser,
   updateUsers,
   deleteUser,
-  readCSV,
 };
